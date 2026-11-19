@@ -105,4 +105,4 @@ git clone https://github.com/<your-account>/policy-memo-mentor ~/.claude/skills/
 
 المحتوى مرخّص بموجب [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): يحق لك النسخ والتعديل وإعادة النشر مع نسبة العمل إلى أصحابه. المصادر الخارجية المذكورة في `references/10-exemplars.md` تبقى لأصحابها، ويُشار إليها ولا تُنسخ.
 
-**المؤلف:** محمود إبراهيم، بمساعدة Claude.
+**المؤلف:** محمود إبراهيم ازرق.
