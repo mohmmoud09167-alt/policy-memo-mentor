@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: weak-draft-review
+expected_outcome: |
+  The review names the specific common errors in the paragraph (no responsible body, action, timeframe or resources; generalisation without numbers; advocacy language; academic phrasing; no single decision-maker), quotes the offending phrases as evidence, and proposes a concrete rewrite pattern with the four elements, using placeholders instead of invented data.

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: idea-to-memo-mentoring
+expected_outcome: |
+  The mentor does not produce a full memo with invented figures. It explains briefly why it will build the memo with the writer, starts at the intake station, asks at most three targeted questions (e.g. evidence, the template/criteria, the precise problem), and outlines the path through the three gates. Any skeleton it offers uses [يحتاج مصدر] placeholders rather than fabricated numbers.
